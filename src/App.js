@@ -7,6 +7,10 @@ const App = () => {
             height="100vh"
             projectId=""
             userName=""
+            userSecret=""
         />
     )
 }
+
+
+export default App;
